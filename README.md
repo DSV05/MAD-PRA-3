@@ -14,5 +14,9 @@
 
 7. Open Login Activity
 
- Study: Intent, types of Intent, types of Intent Action, Intent.setData() method, Intent.setType() method, Button, ConstraintLayout, CoordinatorLayout, startActivity() method,
-ActivityResultContracts. Permission in manifest, ContextCompat.checkSelfPermission(), ActivityCompat.requestPermissions() method, Uri.parse() method, 
+** Study**: Intent, types of Intent, types of Intent Action, Intent.setData() method, Intent.setType() method, Button, ConstraintLayout, CoordinatorLayout, startActivity() method,
+ActivityResultContracts. Permission in manifest, ContextCompat.checkSelfPermission(), ActivityCompat.requestPermissions() method, Uri.parse() method.
+
+**Output**:
+<img width="1440" height="900" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/865d4c07-b239-40f0-89ff-eee537976eb1" />
+
