@@ -18,5 +18,6 @@
 ActivityResultContracts. Permission in manifest, ContextCompat.checkSelfPermission(), ActivityCompat.requestPermissions() method, Uri.parse() method.
 
 **Output**:
-<img width="1440" height="900" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/865d4c07-b239-40f0-89ff-eee537976eb1" />
+<img width="1422" height="793" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/0b1f3f4e-3cb6-4aeb-9817-a59eeec90254" />
+
 
